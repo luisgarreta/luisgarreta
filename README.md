@@ -1,5 +1,5 @@
-<h1 align="center">Luis Ernesto Garreta Unigarro<br>lgarreta@gmail.com</h1>
-<h4 align="center">lgarreta@gmail.com</h4>
+<p align="center"><strong>Luis Garreta<br>
+lgarreta@gmail.com</strong></p>
 
 Professional Summary 
 -------------------------------------------
@@ -37,13 +37,13 @@ Selected Publications
 
 Professional Skills
 -------------------------------------------
-• **Scientific Programming**: Python, R, Java, C/C++, Linux scripting
-• **Software & HPC**: Git, SLURM, PBS, Docker, Shell scripting
-• **Domains**: Bioinformatics, Genomics, Machine Learning, Protein Modeling, RPA Systems
+- **Scientific Programming**: Python, R, Java, C/C++, Linux scripting
+- **Software & HPC**: Git, SLURM, PBS, Docker, Shell scripting
+- **Domains**: Bioinformatics, Genomics, Machine Learning, Protein Modeling, RPA Systems
 
 Awards and Honors
 -------------------------------------------
-**2019** MINCIENCIAS Postdoctoral Fellowship
-**2007** COLCIENCIAS Doctoral Scholarship
-**2002** AIV Best Undergraduate Project Award
-**2001** Laureate Thesis Award, Pontificia Universidad Javeriana
+- **2019** MINCIENCIAS Postdoctoral Fellowship
+- **2007** COLCIENCIAS Doctoral Scholarship
+- **2002** AIV Best Undergraduate Project Award
+- **2001** Laureate Thesis Award, Pontificia Universidad Javeriana
