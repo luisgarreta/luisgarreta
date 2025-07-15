@@ -1,5 +1,5 @@
-<p align="center"><strong>Luis Garreta<br>
-lgarreta@gmail.com</strong></p>
+<h2 align="center">Luis Garreta<br>
+lgarreta@gmail.com</h2>
 
 Professional Summary 
 -------------------------------------------
